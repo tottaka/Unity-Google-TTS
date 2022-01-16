@@ -1,6 +1,6 @@
 # Unity-Google-TTS
 A simple Unity EditorWindow implementing Google's Text To Speech REST API
-Public domain as always, do whatever you want with it..
+### Public domain as always, do whatever you want with it..
 
 
 # Usage
