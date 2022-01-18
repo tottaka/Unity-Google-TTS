@@ -1,5 +1,7 @@
 # Unity-Google-TTS
 ## A simple Unity EditorWindow implementing Google's Text To Speech REST API
+Requires Editor Coroutines https://docs.unity3d.com/Manual/com.unity.editorcoroutines.html
+
 ### Public domain as always, do whatever you want with it..
 
 
